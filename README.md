@@ -1,5 +1,10 @@
 # _MARKDOWN_
 
-![google](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Ftalk.commonmark.org%2Ft%2Fthe-markdown-logo%2F14&ved=0CBYQjRxqFwoTCNjq94fWpJUDFQAAAAAdAAAAABA4&opi=89978449)
+![m][def]
 
 Markdown is a lightweight markup language used to format to plane text. 
+
+[def]: https://miro.medium.com/1*Qpe_UQI7ZIyxg-E7k74svQ.png
+
+---
+
