@@ -13,7 +13,7 @@ It allows you to create well- structured documents using simple and easy - to - 
 
 - Easy to learn and write 
 - Human - readeble syntex
-- Converyts to HTML
+- Converts to HTML
 - Widely used on GitHub and documentation sites
 - Supports hesdings, lists, table, link, image, and code blocks
 
@@ -38,9 +38,9 @@ It allows you to create well- structured documents using simple and easy - to - 
 
 ---
 
-IF YOU LEARN  MARKDOWN HEARE IS THE LINK 👇🏻
+IF YOU LEARN - MARKDOWN - HEARE IS THE LINK 👇🏻
 
--    --------------------------------------[click hear]--------------------
+-    ------------------------------------[click hear]
 
 
 
