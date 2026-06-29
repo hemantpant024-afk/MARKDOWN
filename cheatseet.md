@@ -50,9 +50,9 @@
 9. for link - 
 
 
-[anime]
+
 
 ---
        
 
-[anime]: (https://share.google/THUyOxnAuJ0AGlLbb)
+[link name or realtive somthing in side bracket](link hear)
