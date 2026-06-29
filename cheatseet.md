@@ -50,9 +50,9 @@
 9. for link - 
 
 
-[google]
+[anime]
 
 ---
        
 
-[google]: (www.google.com)
+[anime]: (https://animesalt.ac)
