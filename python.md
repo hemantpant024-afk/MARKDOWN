@@ -1,7 +1,7 @@
 # python
 
 
-1. class  - [x]
+1. class
 2. object
 3. function
 4. inheritance
