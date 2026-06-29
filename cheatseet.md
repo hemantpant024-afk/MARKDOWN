@@ -45,4 +45,4 @@
 
 ***
 
-8. subscript - H~2~0
+8. subscript - H~2~O
