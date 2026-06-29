@@ -24,10 +24,10 @@
 | Hemant  | 19  |
 | Shibu   | 20  |
 ---
-6. checklist  - [ ] must include space  
-              - [x] check     
-              - [ ] uncheck     
-              - [X] check
+6. checklist  -[ ]  must include space  
+-             - [x]    check     
+              - [ ]    uncheck     
+              - [X]    check
 
 
 ---
@@ -45,4 +45,4 @@
 
 ***
 
-8. subscript H~2~0
+8. subscript - H~2~0
